@@ -1,0 +1,30 @@
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\bin\Debug\net6.0\PvKviz.exe
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\bin\Debug\net6.0\PvKviz.deps.json
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\bin\Debug\net6.0\PvKviz.runtimeconfig.json
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\bin\Debug\net6.0\PvKviz.dll
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\bin\Debug\net6.0\PvKviz.pdb
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.AssemblyInfo.cs
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.dll
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\refint\PvKviz.dll
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.pdb
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\PvKviz.genruntimeconfig.cache
+C:\Users\micha\Documents\School\PV 2022-23\PvKviz\obj\Debug\net6.0\ref\PvKviz.dll
+C:\Users\stilec2\Downloads\PvKviz\bin\Debug\net6.0\PvKviz.exe
+C:\Users\stilec2\Downloads\PvKviz\bin\Debug\net6.0\PvKviz.deps.json
+C:\Users\stilec2\Downloads\PvKviz\bin\Debug\net6.0\PvKviz.runtimeconfig.json
+C:\Users\stilec2\Downloads\PvKviz\bin\Debug\net6.0\PvKviz.dll
+C:\Users\stilec2\Downloads\PvKviz\bin\Debug\net6.0\PvKviz.pdb
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.csproj.AssemblyReference.cache
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.AssemblyInfoInputs.cache
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.AssemblyInfo.cs
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.csproj.CoreCompileInputs.cache
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.dll
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\refint\PvKviz.dll
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.pdb
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\PvKviz.genruntimeconfig.cache
+C:\Users\stilec2\Downloads\PvKviz\obj\Debug\net6.0\ref\PvKviz.dll
